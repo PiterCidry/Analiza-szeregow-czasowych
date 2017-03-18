@@ -1,0 +1,6 @@
+Prawostronna skosnosc danych
+Symetryczny rozklad danych
+Lewostronna skosnosc danych
+Mala koncentracja danych wokol sredniej
+Rozklad rowny rozkladowi normalnemu
+Duza koncentracja danych wokol sredniej

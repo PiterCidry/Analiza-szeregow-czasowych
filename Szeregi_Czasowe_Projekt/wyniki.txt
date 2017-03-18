@@ -1,0 +1,28 @@
+
+Obliczenia korelacji dla szeregu wprowadzonego przez uzytkownika:
+1 wartosc w 1 szeregu - -10.00	2 wartosc w 1 szeregu - 5.24	3 wartosc w 1 szeregu - 6.00	4 wartosc w 1 szeregu - 12.91	5 wartosc w 1 szeregu - 25.20	6 wartosc w 1 szeregu - 5.00	7 wartosc w 1 szeregu - -1.67	8 wartosc w 1 szeregu - 1.00	9 wartosc w 1 szeregu - 0.00	10 wartosc w 1 szeregu - 2.62	1 wartosc w 2 szeregu - 6.00	2 wartosc w 2 szeregu - 2.67	3 wartosc w 2 szeregu - 2.10	4 wartosc w 2 szeregu - -9.70	5 wartosc w 2 szeregu - 2.00	6 wartosc w 2 szeregu - -21.37	7 wartosc w 2 szeregu - 25.00	8 wartosc w 2 szeregu - 63.00	9 wartosc w 2 szeregu - 25.00	10 wartosc w 2 szeregu - 1.00	
+Korelacja danych w szeregach uzytkownika - -0.32 
+
+
+Srednia jesienna temperatura w Polsce:
+
+~~~~ Wyniki w prezdziale 1 - 5~~~~
+Srednia: 7.00, Mediana: 7.20, Odchylenie standardowe: 0.57Skosnosc: -0.80, Kurtoza: 2.26
+
+~~~~ Wyniki w prezdziale 2 - 6~~~~
+Srednia: 7.16, Mediana: 7.20, Odchylenie standardowe: 0.78Skosnosc: 0.13, Kurtoza: 2.22
+
+~~~~ Wyniki w prezdziale 3 - 7~~~~
+Srednia: 7.04, Mediana: 7.20, Odchylenie standardowe: 0.97Skosnosc: -0.40, Kurtoza: 2.36
+
+~~~~ Wyniki w prezdziale 4 - 8~~~~
+Srednia: 6.78, Mediana: 6.80, Odchylenie standardowe: 1.02Skosnosc: 0.26, Kurtoza: 2.01
+
+~~~~ Wyniki w prezdziale 5 - 9~~~~
+Srednia: 6.62, Mediana: 6.10, Odchylenie standardowe: 1.06Skosnosc: 0.61, Kurtoza: 1.97
+
+~~~~ Wyniki w prezdziale 6 - 10~~~~
+Srednia: 7.02, Mediana: 6.10, Odchylenie standardowe: 1.49Skosnosc: 0.41, Kurtoza: 1.40
+
+~~~~ Wyniki w prezdziale 7 - 11~~~~
+Srednia: 6.74, Mediana: 6.10, Odchylenie standardowe: 1.33Skosnosc: 1.00, Kurtoza: 2.56
